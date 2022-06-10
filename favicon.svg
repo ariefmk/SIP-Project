@@ -1,0 +1,17 @@
+<svg width="203.73mm" height="203.73mm" version="1.1" viewBox="0 0 203.73 203.73" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient13806" x1="37.851" x2="69.601" y1="101.47" y2="101.47" gradientTransform="matrix(6.4167 0 0 6.4167 -242.87 -549.2)" gradientUnits="userSpaceOnUse">
+   <stop stop-color="#008fff" offset="0"/>
+   <stop stop-color="#25ff00" offset="1"/>
+  </linearGradient>
+ </defs>
+ <circle cx="101.86" cy="101.86" r="101.86" fill="url(#linearGradient13806)" fill-rule="evenodd"/>
+ <circle transform="rotate(90)" cx="101.86" cy="-101.86" r="93.376" fill-opacity=".98975" fill-rule="evenodd" stroke-width="2.364"/>
+ <g fill="#ecfbff" fill-rule="evenodd">
+  <rect transform="rotate(-90)" x="-66.212" y="66.212" width="10.186" height="71.305" rx="5" ry="5"/>
+  <rect transform="rotate(90)" x="137.52" y="-137.52" width="10.186" height="71.305" rx="5" ry="5"/>
+  <rect x="66.212" y="56.025" width="10.186" height="35.653" rx="5" ry="5"/>
+  <rect x="127.33" y="112.05" width="10.186" height="35.653" rx="5" ry="5"/>
+  <rect transform="rotate(-90)" x="-106.96" y="66.212" width="10.186" height="71.305" rx="5" ry="5"/>
+ </g>
+</svg>
