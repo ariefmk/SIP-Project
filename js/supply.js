@@ -1,24 +1,5 @@
-let supply = (svgId, assetId) => {
+let supply = (svgId) => {
     var getSvg = SVG('#'+svgId).size(150, 300).viewbox(0, 0, 150, 300)
-
-    if ( height < 0) {
-        rh = 0
-        ry = 0
-    }
-    else if (height < 60) {
-        rh = 60
-        ry = 240
-    }
-    else if (height < 300) {
-        rh = height
-        ry = 300 - height
-
-    }
-    else {
-        rh = 300
-        ry = 0
-     }
-
     getSvg.rect('100%', '100%').attr({
         id: 'rect1', fill: '#10120f', rx: '100%', ry: '30', x: 0, y: 0
     })
@@ -34,4 +15,5 @@ let supply = (svgId, assetId) => {
 }
 
 supply('sip-supply')
-
+supply('dsip-supply')
+supply('lsip-supply')
